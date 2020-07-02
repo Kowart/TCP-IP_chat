@@ -1,0 +1,11 @@
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\bin\Debug\Client.exe.config
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\bin\Debug\Client.exe
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\bin\Debug\Client.pdb
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\bin\Debug\SimpleTCP.dll
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.Form1.resources
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.exe
+C:\Users\Artur\source\repos\TCP_IP_chat\Client\obj\Debug\Client.pdb

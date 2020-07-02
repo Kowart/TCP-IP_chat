@@ -1,0 +1,12 @@
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\bin\Debug\TCP_IP_chat.exe.config
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\bin\Debug\TCP_IP_chat.exe
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\bin\Debug\TCP_IP_chat.pdb
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\bin\Debug\SimpleTCP.dll
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.Form1.resources
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.Properties.Resources.resources
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.csproj.CopyComplete
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.exe
+C:\Users\Artur\source\repos\TCP_IP_chat\TCP_IP_chat\obj\Debug\TCP_IP_chat.pdb
