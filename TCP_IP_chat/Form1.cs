@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net;
 
 namespace TCP_IP_chat
 {
@@ -41,7 +42,7 @@ namespace TCP_IP_chat
         private void btnStart_Click(object sender, EventArgs e)
         {
             txtStatus.Text += "Server starting...";
-            System.Net.IPAddress ip = new System.Net.IPAddress(long.Parse(txtHost.Text));
+            IPAddress ip = IPAddress.Parse(txtHost.Text);
             server.Start(ip, Convert.ToInt32(txtPort.Text));
         }
 

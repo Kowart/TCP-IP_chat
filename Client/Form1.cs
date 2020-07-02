@@ -23,6 +23,7 @@ namespace Client
         private void btnConnect_Click(object sender, EventArgs e)
         {
             btnConnect.Enabled = false;
+            client.Connect(txtHost.Text, Convert.ToInt32(txtPort.Text));
         }
 
         private void Form1_Load(object sender, EventArgs e)
